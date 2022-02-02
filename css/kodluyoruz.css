@@ -1,5 +1,41 @@
-h1{
-    color:rgb(66, 240, 13);
-    font-size: 20px;
-    font-family: Arial, Helvetica, sans-serif;
+.center{
+    text-align: center;
+}
+
+.container{
+    text-align: center;
+    
+}
+.bg-color1{
+   background-color:#ccffff; 
+   width: 450px;
+   height: 107px;
+   margin: 2px;
+
+}
+
+.bg-color2{
+    background-color:#b3ffff;
+    width: 450px;
+    height: 107px;
+    margin: 2px;
+    
+}
+ 
+.bg-color3{
+   background-color: #99ffff;
+   width: 450px;
+   height: 107px;
+   margin: 2px;
+  
+   
+}
+.bg-white{
+   background-color: rgb(231, 229, 229);
+}
+.d-flex{
+    display: flex;
+}
+.button1{
+    width: 400px;
 }
